@@ -1,0 +1,67 @@
+Dear ○○,
+
+This is from the staff for the Ruby 25th anniversary event.
+Ruby was born on the 24th of February, 1993, so this will be the 25th birthday.
+We will hold an event celebrating Ruby, and talking about Ruby's past, present, and future on the 24th of February 2018 in Tokyo.
+We're also holding an event on the web to collect messages for Ruby from Rubyists around the world. We know how busy you are, but we'd like to ask you to write a message for Ruby and Rubyists! We are planning to open the messages web pages on Feb 1st.
+
+## About the message
+
+About Ruby
+We don't have a constraint on the details of the message,
+but it's good to write about the past, present, or future.
+
+License: CC BY-SA
+https://creativecommons.org/licenses/by-sa/2.0/
+
+However, the event has a code of conduct, and it applies to the messages too.
+*** TODO: CoC url
+
+## Format
+
+There're 2 ways.
+
+### 1. GitHub Flavored Markdown
+
+GitHub Flavored Markdown: https://guides.github.com/features/mastering-markdown/
+
+Please place big files like an image or movie outside of the repository, to prevent repository size from getting huge.
+
+file name: id_or_name.language.md (example: igaiga.en.md)
+file format: github markdown
+
+There is a template file, but you can write freely without the template.
+https://raw.githubusercontent.com/ruby-no-kai/ruby25/master/docs/template.en.md
+
+### 2. Write in your blog page
+
+You can write on your blog.
+Send us your file with your URL.
+File name and format rules are same as "1. GitHub Flavored Markdown".
+
+## Submission
+
+There're 2 ways.
+
+### a. Pull Request
+
+https://github.com/ruby-no-kai/ruby25
+Make a pull request and put your submission file into root directory in the "ruby-no-kai/ruby25" Github repository. Your file name should be in the format "id_or_name.language.md".
+
+### b. send via email
+
+Send email to attach your file named "id_or_name.language.md".
+To: ruby25@ruby.or.jp
+Subject: Ruby25 message
+
+## Deadline
+
+26th(Fri) Jan., 2018
+
+## Publish
+
+We'll publish the message page around 1st Feb., 2018.
+There's a possibility it might be late with that publishing.
+
+Sincerely,
+igaiga, Ruby25th Anniversary party staff member

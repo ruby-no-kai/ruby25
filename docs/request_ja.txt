@@ -1,0 +1,65 @@
+○○様
+
+Ruby25周年イベントスタッフの○○です。
+1993年2月24日に誕生したプログラミング言語Rubyは、2018年に25周年を迎えます。
+Rubyの25周年をみんなで祝い、Rubyのこれまで、今、そして未来を展望するイベントを2018年2月24日に東京にて開催します。
+
+イベント当日に先立つオンライン企画として、25周年を記念して、Rubyistの皆様から文章を集めるページを作成します。こちらへのご寄稿を、お願いさせていただきたく、ご連絡させていただきました。集めた文章については、2/1頃から順に公開しWeb上で告知させていただきます。お忙しい中のお願いとなり恐縮ですが、ご検討いただければ幸甚です。
+
+## 内容
+
+Rubyに関連するもの
+詳細なテーマや内容について制限はありません
+25年を振り返るだけでなく、現在、未来についても言及いただければ幸いです
+ライセンスは CC BY-SA で取り扱います
+https://creativecommons.org/licenses/by-sa/2.0/
+
+本イベントではアンチハラスメントポリシーを定めており、本企画もこれに準じます
+★TODO: CoCページのURL(ruby-no-kai github or 公式ページ)。CoCが確定したら載せられる。
+
+## 形式
+
+2つの方法があります。
+
+### 1. GitHub Flavored Markdown
+
+GitHub Flavored Markdown: https://guides.github.com/features/mastering-markdown/
+画像や動画を載せる際は、リポジトリ容量が大きくなるのを防ぐため、外部に置いていただけますようお願いします。
+ファイル名: id_or_name.language.md (例: igaiga.ja.md)
+ファイル形式: github markdown
+
+ページテンプレートも用意しておりますが、沿わずに自由に書いていただいても構いません。
+https://raw.githubusercontent.com/ruby-no-kai/ruby25/master/docs/template.ja.md
+
+languageの部分はISO 639-1 code準拠を推奨します。日本語はjaです。
+以下で調べることができます。
+https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+
+### 2. 他のサイトへ寄稿
+
+ご自分のブログなど、他のサイトへ書いていただき、URLを書いたファイルをご送付ください。
+ファイル名やフォーマットは"1. GitHub Flavored Markdown"と同じです。
+
+## 提出方法
+
+2つの方法があります。
+
+### a. Pull Requestを送る
+
+https://github.com/ruby-no-kai/ruby25
+ファイル名 id_or_name.language.md のファイルを上記リポジトリルートディレクトリに置いてPRを作成してください。
+
+### b. メールアドレスでファイルを送付いただく
+
+ファイル名 id_or_name.language.md で添付の上、ご送付ください。
+宛先: ruby25@ruby.or.jp
+
+## 〆切
+
+2018年1月26日(金)
+
+## 公開
+
+2018年2月1日から順次公開予定です。公開までお時間をいただくこともありますがご容赦ください。
+
+以上、どうぞよろしくお願いいたします。
