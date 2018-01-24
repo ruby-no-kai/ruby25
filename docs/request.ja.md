@@ -11,7 +11,7 @@ Rubyの25周年をみんなで祝い、Rubyのこれまで、今、そして未�
 - 詳細なテーマや内容について制限はありません
 - 25年を振り返るだけでなく、現在、未来についても言及いただければ幸いです
 - ライセンスは CC BY-SA で取り扱います
-  - https://creativecommons.org/licenses/by-sa/2.0/
+  - https://creativecommons.org/licenses/by-sa/2.0/jp/
 - 本イベントではアンチハラスメントポリシーを定めており、本企画もこれに準じます
   - http://25.ruby.or.jp/coc.ja.html
 
