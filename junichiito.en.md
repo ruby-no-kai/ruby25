@@ -17,7 +17,7 @@ He also wrote a book [Introduction to Ruby programming for future professionals]
 
 - Twitter: [@jnchito](https://twitter.com/jnchito/)
 - Blog: http://blog.jnito.com
-- GitHub：https://github.com/JunichiIto
+- GitHub: https://github.com/JunichiIto
 
 [![rubybook](https://user-images.githubusercontent.com/1148320/35476543-1c532a74-03f5-11e8-923d-4c259b21e4b4.jpg)](https://www.amazon.co.jp/dp/4774193976) [![everydayrails](https://user-images.githubusercontent.com/1148320/35476544-1c959f9e-03f5-11e8-9219-7e926e547a2f.png)](https://leanpub.com/everydayrailsrspec-jp)
 
