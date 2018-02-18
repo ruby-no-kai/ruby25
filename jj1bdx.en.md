@@ -1,6 +1,6 @@
 # Rediscovering Ruby as mruby and Elixir
 
-25 years ago in 1993, my primary programming language was C, and I thought I could survive without learning other languages. The rise of scripting language was much faster than I thought, however.
+25 years ago in 1993, my primary programming language was C, and I thought I could survive without learning other languages. The rise of scripting languages was much faster than I thought, however.
 
 At the beginning of the 21st Century, I noticed a relatively new programming language called Ruby. I didn't like the syntax, and it was hard to learn, so I was dismissing Ruby for a long time. In fact, I still don't know much about Ruby except for tweaking HomeBrew scripts. Being a primary language for HomeBrew on macOS is, nevertheless, an excellent example of how Ruby is practical and useful. I even used portupgrade for FreeBSD too.
 
@@ -16,6 +16,6 @@ Last of all, congratulations on the 25th anniversary of Ruby.
 
 # Kenji Rikitake
 
-Kenji Rikitake is a software engineer working on computers since 1974. His recent interests in programming include the BEAM ecosystem of Erlang and Elixir programming languages and rediscovering object-oriented programming systems.
+Kenji Rikitake is a software engineer working on computers since 1974. His recent interests in programming include the BEAM ecosystem of Erlang and Elixir programming languages and rediscovering object-oriented programming systems, as well as hard problems of the real-world concurrency-oriented programming.
 
-In many social networking systems including GitHub, Kenji's handle is `@jj1bdx`, the lower-cased callsign of his primary amateur radio station since 1976.
+In many social networking systems such as GitHub, Kenji's handle is `@jj1bdx`, the lower-cased callsign of his primary amateur radio station since 1976.
