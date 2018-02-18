@@ -16,6 +16,6 @@ Last of all, congratulations on the 25th anniversary of Ruby.
 
 # Kenji Rikitake
 
-Kenji Rikitake is a software engineer working on computers since 1974. His recent interests in programming include the BEAM ecosystem of Erlang and Elixir programming languages and rediscovering object-oriented programming systems, as well as hard problems of the real-world concurrency-oriented programming.
+Kenji Rikitake is a software engineer working on computers since 1990. His recent interests in programming include the BEAM ecosystem of Erlang and Elixir programming languages and rediscovering object-oriented programming systems, as well as hard problems of the real-world concurrency-oriented programming.
 
 In many social networking systems such as GitHub, Kenji's handle is `@jj1bdx`, the lower-cased callsign of his primary amateur radio station since 1976.
