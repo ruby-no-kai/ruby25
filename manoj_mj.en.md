@@ -34,4 +34,4 @@ I hope and pray that Ruby continues to grow with me. Because I just really, real
 
 # Manoj M J
 
-Manoj M J is a software engineer at [Reflektive](www.reflektive.com).
+Manoj M J is a software engineer at [Reflektive](https://www.reflektive.com/)
